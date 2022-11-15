@@ -22,7 +22,6 @@ A environment setup as below should suffice:
 
 ```
 pip install -r requirements.txt
-
 ```
 
 ### Usage
