@@ -1,0 +1,4 @@
+tensorflow
+scipy
+pyyaml
+opencv-python
